@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Internship-backend/1.0.0": {
+        "runtime": {
+          "Internship-backend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Internship-backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
